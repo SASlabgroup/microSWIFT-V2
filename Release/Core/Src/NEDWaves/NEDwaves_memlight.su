@@ -1,4 +1,0 @@
-../Core/Src/NEDWaves/NEDwaves_memlight.c:45:13:b_binary_expand_op	64	static
-../Core/Src/NEDWaves/NEDwaves_memlight.c:98:13:binary_expand_op	80	static
-../Core/Src/NEDWaves/NEDwaves_memlight.c:198:15:rt_roundd_snf	16	static
-../Core/Src/NEDWaves/NEDwaves_memlight.c:263:6:NEDwaves_memlight	2328	static

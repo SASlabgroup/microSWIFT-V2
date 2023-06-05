@@ -1,6 +1,0 @@
-../Core/Src/Peripherals/ct_sensor.c:131:17:ct_get_averages	40	static
-../Core/Src/Peripherals/ct_sensor.c:156:6:ct_on_off	0	static
-../Core/Src/Peripherals/ct_sensor.c:253:17:reset_ct_uart	16	static
-../Core/Src/Peripherals/ct_sensor.c:54:17:ct_parse_sample	64	static
-../Core/Src/Peripherals/ct_sensor.c:166:17:ct_self_test	64	static
-../Core/Src/Peripherals/ct_sensor.c:23:6:ct_init	24	static

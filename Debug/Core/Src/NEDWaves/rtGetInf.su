@@ -1,4 +1,0 @@
-../Core/Src/NEDWaves/rtGetInf.c:25:8:rtGetInf	4	static
-../Core/Src/NEDWaves/rtGetInf.c:35:10:rtGetInfF	4	static
-../Core/Src/NEDWaves/rtGetInf.c:45:8:rtGetMinusInf	4	static
-../Core/Src/NEDWaves/rtGetInf.c:55:10:rtGetMinusInfF	4	static
