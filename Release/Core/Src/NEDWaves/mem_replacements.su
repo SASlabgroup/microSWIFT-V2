@@ -1,0 +1,9 @@
+../Core/Src/NEDWaves/mem_replacements.c:12:6:waves_memory_pool_init	0	static
+../Core/Src/NEDWaves/mem_replacements.c:17:6:waves_memory_pool_create	16	static
+../Core/Src/NEDWaves/mem_replacements.c:24:6:waves_memory_pool_delete	0	static
+../Core/Src/NEDWaves/mem_replacements.c:36:7:malloc_replacement	16	static
+../Core/Src/NEDWaves/mem_replacements.c:49:7:calloc_replacement	24	static
+../Core/Src/NEDWaves/mem_replacements.c:31:8:get_waves_float_array	0	static
+../Core/Src/NEDWaves/mem_replacements.c:64:6:free_replacement	0	static
+../Core/Src/NEDWaves/mem_replacements.c:70:20:argInit_1xUnbounded_real32_T	0	static
+../Core/Src/NEDWaves/mem_replacements.c:77:8:argInit_real_T	0	static

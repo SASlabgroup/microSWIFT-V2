@@ -1,0 +1,8 @@
+../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_dma.h:1488:22:LL_DMA_ResetChannel	24	static
+../Core/Src/Peripherals/ct_sensor.c:23:6:ct_init	24	static
+../Core/Src/Peripherals/ct_sensor.c:54:17:ct_parse_sample	72	static
+../Core/Src/Peripherals/ct_sensor.c:131:17:ct_get_averages	40	static
+../Core/Src/Peripherals/ct_sensor.c:156:6:ct_on_off	16	static
+../Core/Src/Peripherals/ct_sensor.c:166:17:ct_self_test	88	static
+../Core/Src/Peripherals/ct_sensor.c:253:17:reset_ct_uart	16	static
+../Core/Src/Peripherals/ct_sensor.c:293:13:reset_ct_struct_fields	16	static

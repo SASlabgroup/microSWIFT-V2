@@ -1,0 +1,6 @@
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:25:20:emxCreateND_real32_T	40	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:48:20:emxCreateWrapperND_real32_T	40	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:73:20:emxCreateWrapper_real32_T	32	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:91:20:emxCreate_real32_T	32	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:109:6:emxDestroyArray_real32_T	16	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxAPI.c:119:6:emxInitArray_real32_T	16	static

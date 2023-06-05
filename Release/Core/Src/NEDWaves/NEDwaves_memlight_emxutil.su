@@ -1,0 +1,15 @@
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:25:6:emxEnsureCapacity_boolean_T	24	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:67:6:emxEnsureCapacity_creal32_T	24	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:109:6:emxEnsureCapacity_int32_T	24	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:151:6:emxEnsureCapacity_real32_T	24	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:193:6:emxEnsureCapacity_real_T	24	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:234:6:emxFree_boolean_T	8	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:250:6:emxFree_creal32_T	8	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:267:6:emxFree_int32_T	8	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:283:6:emxFree_real32_T	8	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:299:6:emxFree_real_T	8	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:315:6:emxInit_boolean_T	16	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:336:6:emxInit_creal32_T	16	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:357:6:emxInit_int32_T	16	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:378:6:emxInit_real32_T	16	static
+../Core/Src/NEDWaves/NEDwaves_memlight_emxutil.c:398:6:emxInit_real_T	16	static

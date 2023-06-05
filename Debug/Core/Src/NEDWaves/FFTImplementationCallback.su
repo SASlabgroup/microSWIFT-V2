@@ -1,0 +1,4 @@
+../Core/Src/NEDWaves/FFTImplementationCallback.c:40:13:c_FFTImplementationCallback_r2b	104	static
+../Core/Src/NEDWaves/FFTImplementationCallback.c:169:13:d_FFTImplementationCallback_doH	264	static
+../Core/Src/NEDWaves/FFTImplementationCallback.c:570:6:c_FFTImplementationCallback_doH	216	static
+../Core/Src/NEDWaves/FFTImplementationCallback.c:873:6:c_FFTImplementationCallback_dob	152	static

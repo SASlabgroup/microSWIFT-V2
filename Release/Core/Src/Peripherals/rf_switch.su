@@ -1,0 +1,5 @@
+../Core/Src/Peripherals/rf_switch.c:33:6:rf_switch_power_on	0	static
+../Core/Src/Peripherals/rf_switch.c:44:6:rf_switch_power_off	0	static
+../Core/Src/Peripherals/rf_switch.c:56:6:rf_switch_set_gnss_port	16	static
+../Core/Src/Peripherals/rf_switch.c:72:6:rf_switch_set_iridium_port	8	static
+../Core/Src/Peripherals/rf_switch.c:15:6:rf_switch_init	0	static

@@ -1,0 +1,17 @@
+../Core/Src/NEDWaves/rtwhalf.c:18:10:getBitfieldFromHalf	0	static
+../Core/Src/NEDWaves/rtwhalf.c:23:10:getHalfFromBitfield	0	static
+../Core/Src/NEDWaves/rtwhalf.c:30:10:getBitfieldFromFloat	8	static
+../Core/Src/NEDWaves/rtwhalf.c:37:7:getFloatFromBitfield	0	static
+../Core/Src/NEDWaves/rtwhalf.c:45:7:halfToFloat	0	static
+../Core/Src/NEDWaves/rtwhalf.c:71:10:floatToHalf	24	static
+../Core/Src/NEDWaves/rtwhalf.c:138:8:halfToDouble	8	static
+../Core/Src/NEDWaves/rtwhalf.c:145:10:doubleToHalf	16	static
+../Core/Src/NEDWaves/rtwhalf.c:350:10:sin_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:355:10:cos_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:360:10:ceil_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:365:10:fix_half	16	static
+../Core/Src/NEDWaves/rtwhalf.c:375:10:floor_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:380:10:exp_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:385:10:log_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:390:10:log10_half	8	static
+../Core/Src/NEDWaves/rtwhalf.c:395:10:sqrt_half	8	static
