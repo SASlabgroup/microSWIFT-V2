@@ -49,4 +49,18 @@
 modules.order
 Module.symvers
 Mkfile.old
+<<<<<<< HEAD
 dkms.conf
+=======
+dkms.conf
+
+# STM32CubeIde Files
+*.prefs
+*.list
+*.metadata
+**/microSWIFT_U5/Release
+**/test_bench/Debug
+*.cyclo
+*.proxy_cache
+*.launch
+>>>>>>> newport
